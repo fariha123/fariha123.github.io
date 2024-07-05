@@ -47,15 +47,9 @@ Using Siamese Network to predict different material’s mixture’s melting Poin
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Data Science YouTube](https://www.youtube.com/@JustFariha)
 
 ## Publications
 1. F. T. Boishakhi, P. C. Shill and M. G. R. Alam,\textbf{"Multi-modal Hate Speech Detection using Machine Learning," 2021 IEEE International Conference on Big Data (Big Data)} , Orlando, FL, USA, 2021, pp. 4496-4499, doi: 10.1109/BigData52589.2021.9671955.
-2. 
+
