@@ -13,16 +13,13 @@
 - Generated leads using Google API that increase sales by 15% within 3 months
 - Contributed to KPI analysis, loss elimination, and process improvement
 
-**Survey Analyst @ UNHCR – PROTTASHI  (Jan 2022 - Mar 2022)**
+**Survey Analyst @ UNHCR – PROTTASHI  (_Jan 2022 - Mar 2022_)**
 - Analysis of the Rohingya camp data in for a monthly report of cash distribution, facilities and effectiveness of the facilities given to the camp in healthcare and local cashflow
   
-**Research Assistant @ University of Connecticut (August2023 - Present)**
-
+**Research Assistant @ University of Connecticut (_August 2023 - Present_)**
 -Collected data of different chemical structures with API and cleaned the data to do predict eutectic temperature
 using Python, Beautiful Soup, Pandas, Numpy.
-
 -Experimented on data duplication to solve imbalance data problem with random forest using scikit-learn.
-
 -Collaborated to find new Zintl phase crystal structure based on total energy.
 
 ## Projects
