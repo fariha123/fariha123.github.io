@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL
 
 ## Education
-- Ph.D., Computer Scinece and Engineering | University of Connecticut 								       	               
+- Ph.D., Computer Scinece and Engineering | University of Connecticut (_August 2023 - Present_)								       	               
 - B.Sc., Computer Scinece and Engineering | BRAC University (_December 2020_)
 
 ## Work Experience
