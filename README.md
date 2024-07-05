@@ -48,7 +48,7 @@ Using Siamese Network to predict different material’s mixture’s melting Poin
 
 ## Talks & Lectures
 
-- [Data Science YouTube](https://www.youtube.com/@JustFariha)
+- [JustFariha](https://www.youtube.com/@JustFariha)
 
 ## Publications
 1. F. T. Boishakhi, P. C. Shill and M. G. R. Alam, "Multi-modal Hate Speech Detection using Machine Learning," 2021 IEEE International Conference on Big Data (Big Data) , Orlando, FL, USA, 2021, pp. 4496-4499, doi: 10.1109/BigData52589.2021.9671955.
