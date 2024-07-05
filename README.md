@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Computer Scinece and Engineering | University of Connecticut (_August 2023 - Present_)								       	               
-- B.Sc., Computer Scinece and Engineering | BRAC University (_December 2020_)
+- B.Sc., Computer Scinece and Engineering | BRAC University (_August 2016 - December 2020_)
 
 ## Work Experience
 **Business Analyst @ ACNOVA LTD. (_July 2020 - Jun 2022_)**
