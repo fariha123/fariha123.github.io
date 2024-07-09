@@ -1,4 +1,4 @@
-# Data Scientist
+# Fariha Tahosin Boishakhi
 
 #### Technical Skills: Python, SQL
 
