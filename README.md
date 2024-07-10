@@ -28,22 +28,22 @@
 ## Projects
 
 ### Data Duplication to solve small Imbalanced Dataset Problem with Random Forest
-[Publication]()
+[Link](https://github.com/fariha123/Random-Forest-An-Imbalance-Data-Problem-Solved-by-Data-Duplication)
 
 Explored possibility of solving small Imbalance dataset classification problem with data duplication and Random forest.
 
 
 
 ### CDS&E: Collaborative Research: Designing New Zintl Phases with Motif-based Learning and Ab Initio Methods (Ongoing)
-[Publication]()
+<!--[Link]()-->
 
-Detected Zintl phase anion and cation from chemical structure using GNN and SVM to identify
+Detected Zintl phase anion and cation from chemical structure using GNN and SVM to identify 
 structural patterns and first-principles calculations to predict and optimize novel compounds.
 
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
-### Eutectic Mixture Melting Point 
-[Publication]()
+### Eutectic Mixture Melting Point (Ongoing)
+<!--[Link]()-->
 
 Using Siamese Network to predict different material’s mixture’s melting Point
 
