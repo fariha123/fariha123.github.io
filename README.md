@@ -15,8 +15,6 @@
 -	Integrated internal APIs to generate summaries and automatically detect discrepancies.
 -	Designed the system for scalability and consistency, minimizing human error in document validation.
 
-
-
 **Research Assistant @ University of Connecticut (_August 2023 - Present_)**
 - Collected data of different chemical structures with API and cleaned the data to do predict eutectic temperature using Python, Beautiful Soup, Pandas, Numpy.
 - Experimented on data duplication to solve imbalance data problem with random forest using scikit-learn.
