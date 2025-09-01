@@ -9,6 +9,14 @@
 - B.Sc., Computer Scinece and Engineering | BRAC University (_August 2016 - December 2020_)
 
 ## Work Experience
+**PhD Summer Intern (AI) @ Regeneron Pharmaceuticals LTD (_May 2025 - August 2025_)**
+-	Built a web application that automates manual verification of Data Transfer Specifications, reducing review time from 2 hours to 30 minutes.
+-	Engineered a document-processing pipeline to extract insights from PDFs and unstructured reference documents.
+-	Integrated internal APIs to generate summaries and automatically detect discrepancies.
+-	Designed the system for scalability and consistency, minimizing human error in document validation.
+
+
+
 **Research Assistant @ University of Connecticut (_August 2023 - Present_)**
 - Collected data of different chemical structures with API and cleaned the data to do predict eutectic temperature using Python, Beautiful Soup, Pandas, Numpy.
 - Experimented on data duplication to solve imbalance data problem with random forest using scikit-learn.
