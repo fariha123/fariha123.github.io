@@ -1,7 +1,7 @@
 
 
  
-I am PhD student in Computer Science and Engineering at the school of School of Engineering, University of Connecticut, (Reducing Information Ecosystem Threats (RIET) Lab with a strong background in AI driven systems, data science, and computational research. My work focuses on building scalable machine learning and LLM-based solutions for real-world problems, including automated fact-checking, Safe use of AI to  scientific data modeling. 
+I am PhD student in Computer Science and Engineering at the school of School of Engineering, University of Connecticut, (Reducing Information Ecosystem Threats (RIET) Lab with a strong background in AI driven systems, data science, and computational research. My work focuses on building multimodal scalable machine learning and LLM-based solutions for real-world problems, including automated fact-checking, Safe use of AI to  scientific data modeling. 
 
 ## Education
 - Ph.D., Computer Scinece and Engineering | University of Connecticut (_August 2023 - Present_)								       	               
